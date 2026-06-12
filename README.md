@@ -74,6 +74,6 @@ Coefficients (a₁, a₂, b₁, b₂) are solved per triangle, giving constant s
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Mobinravan/deformation-analysis-fem-fdm.git
+   https://github.com/Mobinravan/deformation-analysis-fem-fdm.git
 
 
